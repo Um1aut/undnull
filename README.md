@@ -12,3 +12,4 @@ _From Russia with love!_
 * [Telegram #2](https://t.me/undwastaken)
 * [Dev.to](https://dev.to/undwastaken)
 * [Habr](https://habr.com/ru/users/undbsd/)
+* Yes, even [SoundCloud](https://soundcloud.com/undwastaken)
