@@ -13,4 +13,4 @@ _From Russia with love!_
 * [Twitter](https://twitter.com/undwastaken)
 * [Dev.to](https://dev.to/undwastaken)
 * [Habr](https://habr.com/ru/users/undbsd/)
-* Yes, even [SoundCloud](https://soundcloud.com/undwastaken)
+* Yes, even [BandCamp](http://undwastaken.bandcamp.com/)
