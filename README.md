@@ -10,6 +10,7 @@ _From Russia with love!_
 **Und the ubiquitous**
 * [Telegram #1](https://t.me/undxx)
 * [Telegram #2](https://t.me/undwastaken)
+* [My Discord server](https://discord.gg/d8MndPexxS)
 * [Twitter](https://twitter.com/undwastaken)
 * [Dev.to](https://dev.to/undwastaken)
 * [Habr](https://habr.com/ru/users/undbsd/)
